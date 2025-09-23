@@ -1,0 +1,7 @@
+bin/
+obj/
+temp_auto_push.bat
+*.sln.iml
+.idea/**/*
+**/.idea/*.gitignore
+temp_interactive_push.bat
